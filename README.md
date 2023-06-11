@@ -61,12 +61,12 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years experience. M
 
 <br/>
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hmasila&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmasila&theme=rising-sun&hide_border=true" />
-</p>
+[![GitHub Stats](https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmasila&theme=rising-sun&hide_border=true)](https://github.com/hmasila/github-readme-stats)
+
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmasila&layout=donut&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&layout=donut&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
  
 <br>
 
