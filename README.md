@@ -23,15 +23,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmasila&label=Profile%20views&color=0e75b6&style=flat" alt="hmasila" /> </p> -->
 
-### About Me :
+### :woman_technologist: About Me :
 
-My name is Hannah Masila, a Senior Software Engineer with 10 years of experience. My expertise lies in Ruby and Python, which are my main programming languages. I also have strong skills in frontend development, particularly with ReactJS.
+I'm a Senior Software Engineer with 10 years of experience. My expertise lies in Ruby and Python, which are my main programming languages. I also have strong skills in frontend development, particularly with ReactJS.
 
 - :computer: I’m working as a freelance Software Engineer and consultant.
 
 - :man_technologist: I work closely with [Douglas](https://github.com/forhire) who is a senior DevOps, SRE and InfoSec Engineer.
 
-- :small_airplane: In my free time, I love traveling and flying a two seat light sport plane (CTSW).
+- :small_airplane: In my free time, I love traveling and flying a two seat light sport plane [CTSW](https://www.youtube.com/@crosscountrypilot).
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-masila-8612b597) 
 
@@ -48,12 +48,12 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years of experience
 
 ---
 
-### My Stats :
-
-<a href="https://github.com/hmasila/hmasila">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hmasila&bg_color=13010b&color=fafafa&line=ea8410&point=fafafa&area=true&hide_border=true"/>
-</a>
-
+<details>
+  <summary><h3> 📈 Contributions </h3></summary>
+  <a href="https://github.com/hmasila/hmasila">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hmasila&bg_color=13010b&color=fafafa&line=ea8410&point=fafafa&area=true&hide_border=true"/>
+  </a>
+</details>
 <details>
   <summary><h3> 🏆 Trophies </h3></summary>
   <p align="center">
