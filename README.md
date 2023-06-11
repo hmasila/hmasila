@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlYmJlYjA2ZDE1NGFjZTJlNzk4ZDBlM2YyMjRmMTQzOGM0MzVjYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" height="200"/>
   <div id="badges">
     <a href="https://gitlab.com/hanmaslah" target="_blank">
       <img src="https://img.shields.io/badge/Gitlab-red?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
@@ -23,15 +23,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmasila&label=Profile%20views&color=0e75b6&style=flat" alt="hmasila" /> </p> -->
 
-### :woman_technologist: About Me :
+### About Me :
 
 My name is Hannah Masila, a Senior Software Engineer with 10 years of experience. My expertise lies in Ruby and Python, which are my main programming languages. I also have strong skills in frontend development, particularly with ReactJS.
 
 - :computer: I’m working as a freelance Software Engineer and consultant.
 
-- :small_airplane: In my free time, I love traveling and flying a two seat light sport plane (CTSW).
-
 - :man_technologist: I work closely with [Douglas](https://github.com/forhire) who is a senior DevOps, SRE and InfoSec Engineer.
+
+- :small_airplane: In my free time, I love traveling and flying a two seat light sport plane (CTSW).
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-masila-8612b597) 
 
