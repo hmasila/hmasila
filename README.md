@@ -25,11 +25,13 @@
 
 ### :woman_technologist: About Me :
 
-My name is Hannah Masila, a Senior Software Engineer with 10 years experience. My main languages are Ruby and Python. For frontend, I am well versed with ReactJS.
+My name is Hannah Masila, a Senior Software Engineer with 10 years of experience. My expertise lies in Ruby and Python, which are my main programming languages. I also have strong skills in frontend development, particularly with ReactJS.
 
 - :computer: I’m working as a freelance Software Engineer and consultant.
 
 - :small_airplane: In my free time, I love traveling and flying a two seat light sport plane (CTSW).
+
+- :man_technologist: I work closely with [Douglas](https://github.com/forhire) who is a senior DevOps, SRE and InfoSec Engineer.
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-masila-8612b597) 
 
