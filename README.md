@@ -48,9 +48,13 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years of experience
 
 ### My Stats :
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hmasila&bg_color=13010b&color=fafafa&line=ea8410&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Stats](https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hmasila&theme=rising-sun&hide_border=true)](https://github.com/hmasila/github-readme-stats)
 
  
 [![Top Langs](https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&layout=donut&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
+
+
