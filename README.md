@@ -73,11 +73,16 @@ I'm a Senior Software Engineer with 10 years of experience. My expertise lies in
 </details>
 
 <details>
-  <summary><h3> 🥇 GitHub Stats </h3></summary>
+  <summary><h3> 🤖 Top Languages </h3></summary>
   <p align="center">
     <a href="https://github.com/hmasila/hmasila">
-      <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&theme=vision-friendly-dark&hide=java,html,tex&langs_count=3" alt="Hannah's GitHub Stats"/>
+      <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&theme=vision-friendly-dark&hide=java,html,tex,css,scss&layout=donut" alt="Hannah's GitHub Stats"/>
     </a>
+  </p>
+</details>
+<details>
+  <summary><h3> 📊 GitHub Stats </h3></summary>
+  <p align="center">
     <a href="https://github.com/hmasila/hmasila">
       <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Hannah's GitHub Stats" />
     </a>
