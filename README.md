@@ -31,11 +31,11 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years experience. M
 
 - :small_airplane: In my free time, I love traveling and flying a two seat light sport plane (CTSW).
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-masila-8612b597)
+<!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-masila-8612b597) 
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmasila" alt="hmasila" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmasila" alt="hmasila" /></a> </p> -->
 
 ---
 
