@@ -55,18 +55,19 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years experience. M
   
 </div>
 
-<!---
+---
 
-## My Statistics
+### :fire: My Stats :
 
 <br/>
 
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hmasila&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmasila&theme=rising-sun&hide_border=true" />
 </p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmasila&layout=donut&theme=vision-friendly-dark)](https://github.com/hmasila/github-readme-stats)
+ 
 <br>
--->
+
 
