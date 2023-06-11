@@ -54,24 +54,32 @@ My name is Hannah Masila, a Senior Software Engineer with 10 years of experience
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hmasila&bg_color=13010b&color=fafafa&line=ea8410&point=fafafa&area=true&hide_border=true"/>
 </a>
 
-<p align="center">
+<details>
+  <summary><h3> 🏆 Trophies </h3></summary>
+  <p align="center">
     <a href="https://github.com/hmasila/hmasila">
       <img src="https://github-profile-trophy.vercel.app/?username=hmasila&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=4" alt="Hannah's GitHub Stats"/>
     </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hmasila/hmasila">
-    <img align="center" src="https://streak-stats.demolab.com/?user=hmasila&hide_border=true" alt="Hannah's GitHub Stats" />
-  </a>
-</p>
+  </p>
+</details>
 
-<p align="center">
-<a href="https://github.com/hmasila/hmasila">
-  <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&theme=vision-friendly-dark&hide=java,html,tex&langs_count=3" alt="Hannah's GitHub Stats"/>
-</a>
-<a href="https://github.com/hmasila/hmasila">
-  <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Hannah's GitHub Stats" />
-</a>
+<details>
+  <summary><h3> 🔥 Streak Stats </h3></summary>
+  <p align="center">
+    <a href="https://github.com/hmasila/hmasila">
+      <img align="center" src="https://streak-stats.demolab.com/?user=hmasila&hide_border=true" alt="Hannah's GitHub Stats" />
+    </a>
+  </p>
+</details>
 
-</p>
-
+<details>
+  <summary><h3> 🥇 GitHub Stats </h3></summary>
+  <p align="center">
+    <a href="https://github.com/hmasila/hmasila">
+      <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api/top-langs/?username=hmasila&theme=vision-friendly-dark&hide=java,html,tex&langs_count=3" alt="Hannah's GitHub Stats"/>
+    </a>
+    <a href="https://github.com/hmasila/hmasila">
+      <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="Hannah's GitHub Stats" />
+    </a>
+  </p>
+</details>
