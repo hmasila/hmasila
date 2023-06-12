@@ -58,7 +58,7 @@ I'm a Senior Software Engineer with 10 years of experience. My expertise lies in
   <summary><h3> 🏆 Trophies </h3></summary>
   <p align="center">
     <a href="https://github.com/hmasila">
-      <img src="https://github-profile-trophy-mi55mpxye-hmasila.vercel.app/?username=hmasila&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=4" alt="Hannah's GitHub Stats"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=hmasila&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=4" alt="Hannah's GitHub Stats"/>
     </a>
   </p>
 </details>
