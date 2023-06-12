@@ -83,7 +83,7 @@ I'm a Senior Software Engineer with 10 years of experience. My expertise lies in
     <summary><h3> 📊 GitHub Stats </h3></summary>
     <p align="center">
       <a href="https://github.com/hmasila">
-        <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark&include_all_commits&count_private=true" alt="Hannah's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats-eta-bay-50.vercel.app/api?username=hmasila&show_icons=true&line_height=27&theme=vision-friendly-dark&include_all_commits&count_private=true" alt="Hannah's GitHub Stats" />
       </a>
     </p>
   </details>
