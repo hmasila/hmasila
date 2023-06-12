@@ -27,7 +27,7 @@
 
 I'm a Senior Software Engineer with 10 years of experience. My expertise lies in Ruby and Python, which are my main programming languages. I also have strong skills in frontend development, particularly with ReactJS.
 
-- :computer: I’m working as a freelance Software Engineer and consultant.
+- :computer: I’m working as a freelance Software Engineer and consultant. Check me out on ![](https://img.shields.io/badge/-Fiverr-transparent?style=flat&logo=fiverr&logoColor=white)
 
 - :man_technologist: I work closely with [Douglas](https://github.com/forhire) who is a senior DevOps, SRE and InfoSec Engineer.
 
